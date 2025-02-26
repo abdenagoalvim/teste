@@ -1,0 +1,13 @@
+/*
+*/
+#include <iostream>
+#include <conio.h>
+
+using namespace std;
+
+int main() {
+	setlocale(LC_ALL, "portuguese");
+	
+	getch();
+	return 0;
+}
